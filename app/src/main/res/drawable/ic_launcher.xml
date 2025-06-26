@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+
+    <!-- Arka plan siyah -->
+    <path
+        android:fillColor="#0E0E0E"
+        android:pathData="M0,0h108v108h-108z" />
+
+    <!-- Dış daire (saat çerçevesi) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#7BAAF7"
+        android:strokeWidth="6"
+        android:strokeAlpha="0.8"
+        android:pathData="M54,6a48,48 0 1,0 0.1,0" />
+
+    <!-- Saatin akrep-yelkovan benzeri oku -->
+    <path
+        android:fillColor="#7BAAF7"
+        android:pathData="M54,30 L54,54 L72,54"
+        android:strokeColor="#7BAAF7"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- EYSU metni (beyaz renkte) -->
+    <group android:translateY="80">
+        <path
+            android:fillColor="#7BAAF7"
+            android:pathData="M15,0 h6 v-2 h-4 v-2 h4 v-2 h-6 z
+                              M24,0 h2 v-6 h-2 v2 h-2 v-2 h-2 v6 h2 v-2 h2 z
+                              M30,0 h6 v-2 h-4 v-4 h-2 z
+                              M39,0 h6 v-2 h-2 v-4 h-2 v4 h-2 z"/>
+    </group>
+</vector>
