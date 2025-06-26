@@ -47,7 +47,24 @@ EYSU, Android'in `UsageStatsManager` API’sini kullanarak uygulamaların ekran 
 
 ## 📱 Ekran Görüntüleri
 
-> (Buraya projenin ekran görüntüleri eklenebilir – `assets/screenshots/` klasörü kullanılarak)
+### 🏠 Anasayfa
+<p align="center">
+  <img src="assets/screenshots/anasayfa1.png" alt="Anasayfa" width="300"/>
+</p>
+
+---
+
+### 📊 Detay Sayfası
+<p align="center">
+  <img src="assets/screenshots/detayS.png" alt="Detay Sayfası" width="300"/>
+</p>
+
+---
+
+### 🔔 Bildirim Gösterimi
+<p align="center">
+  <img src="assets/screenshots/bildirim.png" alt="Bildirim Ekranı" width="300"/>
+</p>
 
 ---
 
@@ -75,4 +92,4 @@ EYSU, Android'in `UsageStatsManager` API’sini kullanarak uygulamaların ekran 
 
 ## ✉️ İletişim
 
-kandemirmuhammedali0@gmail.com ve bilalizzettin05@gmail.com adresslerinden ulaşabilirsiniz.
+kandemirmuhammedali0@gmail.com ve bilalizzettin05@gmail.com adresindlerinden ulaşabilirsiniz.
