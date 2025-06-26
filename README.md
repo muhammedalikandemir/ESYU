@@ -75,4 +75,4 @@ EYSU, Android'in `UsageStatsManager` API’sini kullanarak uygulamaların ekran 
 
 ## ✉️ İletişim
 
-bilalizzettin05@gmail.com adresinden ulaşabilirsiniz.
+kandemirmuhammedali0@gmail.com ve bilalizzettin05@gmail.com adresslerinden ulaşabilirsiniz.
