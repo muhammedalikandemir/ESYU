@@ -1,4 +1,4 @@
-# 📱 EYSU – Ekran Yönelimli Süre Uygulaması
+# 📱 ESYU – Ekran Yönelimli Süre Uygulaması
 
 **EYSU**, Android tabanlı bir ekran süresi takip ve sınırlama uygulamasıdır. Kullanıcıların telefon kullanım alışkanlıklarını analiz etmelerini sağlar ve belirli uygulamalara günlük kullanım limiti koyarak dijital farkındalık oluşturmayı hedefler.
 
